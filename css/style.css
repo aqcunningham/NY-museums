@@ -1,0 +1,99 @@
+body {
+    background-color: #fff8f0;
+    font-family: 'Borel', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.navbar a:hover,
+#navbarNavDropdown a:hover {
+    color: #ff8811;
+}
+
+.navbar .navbar-brand {
+    color: #ff8811;
+}
+
+.navbar a {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.navbar-nav li a {
+
+    color: #9dd9d2;
+}
+
+div h1 {
+    color: #9dd9d2;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+h2 {
+    color: #ff8811;
+    font-weight: 100 !important;
+}
+
+.blurp p {
+
+    color: #9dd9d2;
+    font-size: 1.125rem;
+    font-weight: 100;
+    line-height: 2.0;
+}
+
+/* an example of a rule for a screen larger than 1200px,
+it will be orange until 1200px
+@media (max-width: 1200px) {
+    body {
+        background-color: orange !important;
+    }
+} */
+
+/* a.nav-link {
+    color: var(--my-var, red);
+}
+
+
+:root {
+    --bs-body-color: #9dd9d2;
+}
+
+:a {
+    --main-bg-color: brown;
+} */
+
+#museums span {
+    color: #ff8811;
+}
+
+.imgsmall {
+    width: 20%;
+    height: auto;
+}
+
+.navbar-brand {
+    padding-left: 10px;
+}
+
+.content {
+    margin-top: 100px !important;
+    margin-top: 100px !important;
+
+}
+
+.navbar.scrolled {
+    background: #392f5a;
+    transition: 1s;
+}
+
+svg,
+.nav-link {
+    padding: 10px 10px;
+}
+
+/* .navbar {
+    background-color: #392f5a;
+} */
